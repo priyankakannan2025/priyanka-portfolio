@@ -90,11 +90,10 @@ body {
 /* FOOTER */
 footer {
   text-align: center;
-  padding: 20px;
-  font-size: 0.9rem;
-  color: #6b7280;
+  padding: 15px 0;
+  background-color: #f8f9fa;
+  font-size: 14px;
 }
-
 /* MOBILE */
 @media (max-width: 600px) {
   .hero h1 {
